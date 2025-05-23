@@ -8,11 +8,11 @@ export default function Home() {
         <h1 className="text-7xl bg-gradient-to-r from-blue-500 to-amber-400 bg-clip-text text-transparent">
           RDX
         </h1>
-        <h2 className="text-4xl">
+        <p className="text-4xl text-center">
           <span className="text-red-500">R</span>
           eal-time <span className="text-red-500">D</span>ata e
           <span className="text-red-500">X</span>perience
-        </h2>
+        </p>
         <Link
           href="/dashboard"
           className="
